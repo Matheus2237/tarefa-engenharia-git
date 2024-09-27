@@ -2,4 +2,4 @@
 
 Tarefa prática do uso de git em sala de aula.
 
-Alteração feita na branch main.
+Alteração feita na branch desenvolvimento.
